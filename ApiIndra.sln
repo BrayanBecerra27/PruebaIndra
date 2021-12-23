@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiIndra", "ApiIndra\ApiIndra.csproj", "{CB52CC66-9296-4853-AF99-1DE0210B0F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaIndra", "BibliotecaIndra\BibliotecaIndra.csproj", "{F432ACF6-F8AA-46A9-899F-5882D5DC269C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB52CC66-9296-4853-AF99-1DE0210B0F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB52CC66-9296-4853-AF99-1DE0210B0F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB52CC66-9296-4853-AF99-1DE0210B0F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB52CC66-9296-4853-AF99-1DE0210B0F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F432ACF6-F8AA-46A9-899F-5882D5DC269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F432ACF6-F8AA-46A9-899F-5882D5DC269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F432ACF6-F8AA-46A9-899F-5882D5DC269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F432ACF6-F8AA-46A9-899F-5882D5DC269C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F42218-C5CE-4900-AD40-C216C943CE05}
+	EndGlobalSection
+EndGlobal
